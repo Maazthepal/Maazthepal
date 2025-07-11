@@ -20,6 +20,7 @@ A video communication tool inspired by Zoom. Users can create or join rooms and 
 - **Languages:** Python, JavaScript , TypeScript  
 - **Frameworks:** Django, React, Next.js
 - **Styling:** Tailwind CSS
+- **Animation:** GSAP
 - **Tools & Services:** Git, GitHub, Gemini API, WebRTC
 
 ---
